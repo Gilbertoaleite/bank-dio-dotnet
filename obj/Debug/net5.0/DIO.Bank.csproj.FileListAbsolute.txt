@@ -1,0 +1,16 @@
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.exe
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.deps.json
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.json
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.runtimeconfig.dev.json
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.dll
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\bin\Debug\net5.0\ref\DIO.Bank.dll
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\bin\Debug\net5.0\DIO.Bank.pdb
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.AssemblyReference.cache
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.GeneratedMSBuildEditorConfig.editorconfig
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfoInputs.cache
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.AssemblyInfo.cs
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.csproj.CoreCompileInputs.cache
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.dll
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\ref\DIO.Bank.dll
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.pdb
+C:\workspace\Aulas digital Innovation one\dotnet tranferencia bancaria\.bank\DIO.Bank\obj\Debug\net5.0\DIO.Bank.genruntimeconfig.cache
